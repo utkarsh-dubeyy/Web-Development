@@ -4,7 +4,7 @@ My web development practice, chapter by chapter. I'm going through Apna College'
 
 ## Folders
 
-One folder per chapter, numbered like the course, for example `05-html-level-1-part-a`. Each folder has the pages I built while following that chapter.
+One folder per chapter, numbered like the course, for example `01-html-level-1-part-a`. Each folder has the pages I built while following that chapter.
 
 ## Progress
 
